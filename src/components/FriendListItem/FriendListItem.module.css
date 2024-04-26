@@ -1,0 +1,14 @@
+.name {
+  padding-top: 16px;
+  font-size: 20px;
+}
+
+.status {
+  padding-top: 12px;
+}
+.status.green {
+  color: green;
+}
+.status.red {
+  color: red;
+}
